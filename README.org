@@ -6,7 +6,7 @@ A wifi status logger for onion omega. Will log the wifi status and re-enable a w
 if connection is lost. Meant to be used with Cron.
 
 ** fft
-an implementation of the fast fourier transform.
+An implementation of the fast fourier transform.
 
 ** mySocket.py 
 A simple tcp server which echoes messages. 
@@ -16,7 +16,7 @@ A deterministic password generator based on caesar cipher. I strongly recommend 
 this as it is very insecure.
 
 ** spellcheck.py
-a spellchecker powered by montana flynns's api. Rquires an X-rapidAPI-Key from 
+a spellchecker powered by montana flynns's api. Requires an X-rapidAPI-Key from 
 https://rapidapi.com/montanaflynn/api/spellcheck 
 Replace "YOUR-KEY" with the API-key. 
 
