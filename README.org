@@ -1,0 +1,27 @@
+* Some python scripts
+This is a collection of some python scripts i have made for various things.
+
+** checkWifi.py
+A wifi status logger for onion omega. Will log the wifi status and re-enable a wifi connection
+if connection is lost. Meant to be used with Cron.
+
+** fft
+an implementation of the fast fourier transform.
+
+** mySocket.py 
+A simple tcp server which echoes messages. 
+
+** passGen.py 
+A deterministic password generator based on caesar cipher. I strongly recommend you DO NOT USE 
+this as it is very insecure.
+
+** spellcheck.py
+a spellchecker powered by montana flynns's api. Rquires an X-rapidAPI-Key from 
+https://rapidapi.com/montanaflynn/api/spellcheck 
+Replace "YOUR-KEY" with the API-key. 
+
+** polyTask.py
+A polybar module displaying the most urgent task from Taskwarrior.
+
+** tm.py
+A script to enable some features for my mousepad.
