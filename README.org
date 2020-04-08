@@ -26,4 +26,4 @@ A script to enable some features for my mousepad.
 
 ** syn.py
 List synonyms of input word by shamelessly reading the html response from thesaurus.com.
-requires beautiful: **pip install beautifulsoup4**
+requires beautiful: *pip install beautifulsoup4*
