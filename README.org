@@ -16,9 +16,7 @@ A deterministic password generator based on caesar cipher. I strongly recommend 
 this as it is very insecure.
 
 ** spellcheck.py
-A spellchecker powered by montana flynns's api. Rquires an X-rapidAPI-Key from 
-https://rapidapi.com/montanaflynn/api/spellcheck 
-Replace "YOUR-KEY" with the API-key. 
+a spellchecker powered by montana flynns's api. Requires an X-rapidAPI-Key from https://rapidapi.com/montanaflynn/api/spellcheck Replace "YOUR-KEY" with the API-key. 
 
 ** polyTask.py
 A polybar module displaying the most urgent task from Taskwarrior.
