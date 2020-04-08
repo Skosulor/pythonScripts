@@ -34,11 +34,15 @@ def getSynonyms(word, recursive):
     except:
         print('Could not find synonyms, maybe the word is misspelled?')
 
+
 try:
     word = str(sys.argv[1])
 except:
-    print("No input arguments")
-    exit()
+    try:
+        word = sys.stdin.read()
+    except:
+        print("No input arguments")
+    
 getSynonyms(word, True)
 # print(start)
 # print(end)
