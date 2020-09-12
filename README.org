@@ -13,7 +13,7 @@ A simple tcp server which echoes messages.
 
 ** passGen.py 
 A deterministic password generator based on caesar cipher. I strongly recommend you DO NOT USE 
-this as it is very insecure.
+this as it is very unsecure.
 
 ** spellcheck.py
 a spellchecker powered by montana flynns's api. Requires an X-rapidAPI-Key from https://rapidapi.com/montanaflynn/api/spellcheck Replace "YOUR-KEY" with the API-key. 
